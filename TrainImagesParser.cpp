@@ -56,8 +56,8 @@ TrainImagesParser::~TrainImagesParser() {
 }
 
 std::vector<CImg<unsigned char>> TrainImagesParser::getTestImgsSet() {
-	for(int i = 0; i < testImgsSet.size(); i++) {
-		testImgsSet[i].display();
-	}
+	// for(int i = 0; i < testImgsSet.size(); i++) {
+	// 	testImgsSet[i].display();
+	// }
 	return testImgsSet;
 }
