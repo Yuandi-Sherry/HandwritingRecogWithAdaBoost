@@ -60,8 +60,10 @@ for i in range(len(labelsTestData)):
 
 正确率：71%
 
-![不进行二值化和特征提取，直接是使用像素点训练](C:\Users\Sherry\Documents\Junior\ComputerVision\Homework\作业7\test1\Question2\imgs\不进行二值化和特征提取，直接是使用像素点训练.PNG)
+![不进行二值化和特征提取，直接是使用像素点训练](imgs/不进行二值化和特征提取，直接是使用像素点训练.PNG)
 
 ### 改进后：
 
 正确率：88%
+
+![10个分类器选择probability最大的](imgs/10个分类器选择probability最大的.PNG)
